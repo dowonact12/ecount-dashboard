@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-09T01:56:36",
+  "updated_at": "2026-04-09T02:16:42",
   "base_date": "20260409",
-  "count": 52,
+  "count": 48,
   "items": [
     {
       "prod_cd": "00001",
@@ -389,28 +389,6 @@
       "class_name": ""
     },
     {
-      "prod_cd": "00033",
-      "prod_des": "30ml 폼 클렌징",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": -49.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00033",
-      "prod_des": "30ml 폼 클렌징",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 4109.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
       "prod_cd": "00034",
       "prod_des": "프로포라 앰플",
       "wh_cd": "100",
@@ -504,28 +482,6 @@
       "wh_cd": "100",
       "wh_des": "제 1창고",
       "qty": 98.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "55555",
-      "prod_des": "30ml 오르 샴푸",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": -6.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "55555",
-      "prod_des": "30ml 오르 샴푸",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 4990.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
