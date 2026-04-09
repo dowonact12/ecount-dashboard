@@ -15,6 +15,14 @@ ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.json"
 OUT_PATH = ROOT / "docs" / "inventory.json"
 
+# 대시보드에서 제외할 품목코드 (샘플/소용량)
+EXCLUDE_PROD_CDS = {
+    "00024",  # 15ml 샴푸
+    "00025",  # 15ml 겔
+    "00033",  # 30ml 폼 클렌징
+    "55555",  # 30ml 오르 샴푸
+}
+
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
@@ -114,6 +122,8 @@ def main():
     items = []
     for r in rows:
         pc = r.get("PROD_CD", "")
+        if pc in EXCLUDE_PROD_CDS:
+            continue
         m = master.get(pc, {})
         items.append({
             "prod_cd": pc,
