@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-09T02:16:42",
+  "updated_at": "2026-04-09T04:34:59",
   "base_date": "20260409",
-  "count": 48,
+  "count": 49,
   "items": [
     {
       "prod_cd": "00001",
@@ -130,6 +130,17 @@
       "wh_cd": "00200",
       "wh_des": "제 2창고",
       "qty": 6.0,
+      "safe_qty": 600.0,
+      "unit": "",
+      "class_cd": "",
+      "class_name": ""
+    },
+    {
+      "prod_cd": "00010",
+      "prod_des": "버블 토너",
+      "wh_cd": "100",
+      "wh_des": "제 1창고",
+      "qty": 2039.0,
       "safe_qty": 600.0,
       "unit": "",
       "class_cd": "",
