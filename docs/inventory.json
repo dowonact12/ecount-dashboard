@@ -1,0 +1,10 @@
+{
+  "updated_at": "2026-04-09T00:00:00",
+  "base_date": "20260409",
+  "count": 3,
+  "items": [
+    {"prod_cd": "SAMPLE-001", "prod_des": "샘플 품목 A", "wh_cd": "W1", "wh_des": "본사창고", "qty": 120, "safe_qty": 50, "unit": "EA", "class_cd": "C1", "class_name": "전자제품"},
+    {"prod_cd": "SAMPLE-002", "prod_des": "샘플 품목 B", "wh_cd": "W1", "wh_des": "본사창고", "qty": 5, "safe_qty": 20, "unit": "EA", "class_cd": "C1", "class_name": "전자제품"},
+    {"prod_cd": "SAMPLE-003", "prod_des": "샘플 품목 C", "wh_cd": "W2", "wh_des": "지점창고", "qty": 0, "safe_qty": 10, "unit": "BOX", "class_cd": "C2", "class_name": "소모품"}
+  ]
+}

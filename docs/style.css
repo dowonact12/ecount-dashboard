@@ -1,0 +1,32 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif; background: #f4f6f9; color: #222; padding: 20px; }
+header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 10px; }
+header h1 { font-size: 22px; }
+.meta { display: flex; align-items: center; gap: 12px; font-size: 13px; color: #666; }
+#refresh { padding: 6px 14px; border: 1px solid #ccc; background: #fff; border-radius: 6px; cursor: pointer; }
+#refresh:hover { background: #f0f0f0; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.card { background: #fff; padding: 16px 20px; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+.card .label { font-size: 12px; color: #888; margin-bottom: 6px; }
+.card .value { font-size: 24px; font-weight: 700; }
+.card.warning .value { color: #e03131; }
+
+.controls { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; align-items: center; background: #fff; padding: 12px; border-radius: 10px; }
+.controls input, .controls select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; }
+.controls input#search { flex: 1; min-width: 200px; }
+.controls label { font-size: 14px; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+
+table { width: 100%; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.06); border-collapse: collapse; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #eef0f3; font-size: 14px; }
+th { background: #f8f9fb; font-weight: 600; cursor: pointer; user-select: none; position: sticky; top: 0; }
+th:hover { background: #eef1f5; }
+th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
+tbody tr:hover { background: #fafbfc; }
+.empty { text-align: center; color: #999; padding: 40px !important; }
+.badge { display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 12px; font-weight: 600; }
+.badge.ok { background: #e7f5ee; color: #2b8a3e; }
+.badge.low { background: #ffe3e3; color: #c92a2a; }
+.badge.zero { background: #343a40; color: #fff; }
+
+footer { text-align: center; margin-top: 20px; font-size: 12px; color: #999; }
