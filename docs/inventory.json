@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T23:34:58",
-  "base_date": "20260426",
+  "updated_at": "2026-04-27T00:08:36",
+  "base_date": "20260427",
   "count": 46,
   "items": [
     {
@@ -327,7 +327,7 @@
       "prod_des": "올업 크림",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 617.0,
+      "qty": 619.0,
       "safe_qty": 800.0,
       "unit": "",
       "class_cd": "",
@@ -404,7 +404,7 @@
       "prod_des": "P 코트필",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 201.0,
+      "qty": 209.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
@@ -415,7 +415,7 @@
       "prod_des": "V 코트필",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 169.0,
+      "qty": 177.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
