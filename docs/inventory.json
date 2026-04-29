@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-29T07:13:15",
+  "updated_at": "2026-04-29T09:27:06",
   "base_date": "20260429",
-  "count": 47,
+  "count": 46,
   "items": [
     {
       "prod_cd": "00001",
@@ -468,17 +468,6 @@
     {
       "prod_cd": "00084",
       "prod_des": "덕용 바이올렛 앰플",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": -1.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "98766",
-      "prod_des": "아로마가드",
       "wh_cd": "100",
       "wh_des": "제 1창고",
       "qty": -1.0,
