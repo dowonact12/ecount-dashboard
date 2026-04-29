@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T01:20:47",
+  "updated_at": "2026-04-29T04:48:55",
   "base_date": "20260429",
   "count": 48,
   "items": [
@@ -8,7 +8,7 @@
       "prod_des": "수딩 앰플",
       "wh_cd": "00200",
       "wh_des": "제 2창고",
-      "qty": 4.0,
+      "qty": 3.0,
       "safe_qty": 520.0,
       "unit": "",
       "class_cd": "",
