@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-29T09:27:06",
+  "updated_at": "2026-04-29T11:14:31",
   "base_date": "20260429",
-  "count": 46,
+  "count": 36,
   "items": [
     {
       "prod_cd": "00001",
@@ -202,116 +202,6 @@
       "class_name": ""
     },
     {
-      "prod_cd": "00015",
-      "prod_des": "웰컴 밀크",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 52.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00015",
-      "prod_des": "웰컴 밀크",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 364.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00016",
-      "prod_des": "웰컴 겔",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 19.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00016",
-      "prod_des": "웰컴 겔",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 157.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00017",
-      "prod_des": "웰컴 수분",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 36.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00017",
-      "prod_des": "웰컴 수분",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 910.0,
-      "safe_qty": 500.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00018",
-      "prod_des": "오르샴푸 (소)",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 1.0,
-      "safe_qty": 600.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00018",
-      "prod_des": "오르샴푸 (소)",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 39.0,
-      "safe_qty": 600.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00019",
-      "prod_des": "미니 수딩",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 4.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00020",
-      "prod_des": "미니 비타",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": 11.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
       "prod_cd": "00021",
       "prod_des": "세라믹 괄사",
       "wh_cd": "100",
@@ -470,7 +360,7 @@
       "prod_des": "덕용 바이올렛 앰플",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": -1.0,
+      "qty": 2.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
