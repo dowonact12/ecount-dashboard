@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T06:50:05",
+  "updated_at": "2026-05-07T09:22:26",
   "base_date": "20260507",
   "count": 39,
   "items": [
@@ -327,7 +327,7 @@
       "prod_des": "P 코트필",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 161.0,
+      "qty": 401.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
@@ -338,7 +338,7 @@
       "prod_des": "V 코트필",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 129.0,
+      "qty": 369.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
