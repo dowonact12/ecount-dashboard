@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-07T23:36:54",
-  "base_date": "20260507",
-  "count": 43,
+  "updated_at": "2026-05-08T01:22:41",
+  "base_date": "20260508",
+  "count": 39,
   "items": [
     {
       "prod_cd": "00001",
@@ -226,20 +226,9 @@
     {
       "prod_cd": "00022",
       "prod_des": "올업 크림",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": -1.0,
-      "safe_qty": 800.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00022",
-      "prod_des": "올업 크림",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 592.0,
+      "qty": 591.0,
       "safe_qty": 800.0,
       "unit": "",
       "class_cd": "",
@@ -369,20 +358,9 @@
     {
       "prod_cd": "00081",
       "prod_des": "덕용 겔",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": -2.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00081",
-      "prod_des": "덕용 겔",
       "wh_cd": "100",
       "wh_des": "제 1창고",
-      "qty": 106.0,
+      "qty": 104.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
@@ -405,28 +383,6 @@
       "wh_cd": "100",
       "wh_des": "제 1창고",
       "qty": 87.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00084",
-      "prod_des": "덕용 바이올렛 앰플",
-      "wh_cd": "00200",
-      "wh_des": "제 2창고",
-      "qty": -2.0,
-      "safe_qty": 0.0,
-      "unit": "",
-      "class_cd": "",
-      "class_name": ""
-    },
-    {
-      "prod_cd": "00084",
-      "prod_des": "덕용 바이올렛 앰플",
-      "wh_cd": "100",
-      "wh_des": "제 1창고",
-      "qty": 2.0,
       "safe_qty": 0.0,
       "unit": "",
       "class_cd": "",
